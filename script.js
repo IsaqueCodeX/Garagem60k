@@ -2,7 +2,7 @@ const cardContainer = document.querySelector(".card-container");
 const campoBusca = document.getElementById("campo-busca");
 let carros = [];
 
-const API_KEY = "AIzaSyAuO9z1zJXW6wp-5tZwBAGMPx5qxSm2dwc";
+const API_KEY = "AIzaSyCx6ARmqJ_LV2XDiOnN7VrjWeKD4PFmaIc";
 
 // Obtém o modelo Gemini disponível para uso
 async function obterModeloDisponivel() {
