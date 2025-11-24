@@ -151,7 +151,7 @@ async function chamarMecanicoIA(modelo, ano, id) {
     area.innerHTML = `
         <div class="loading-container">
             <div class="spinner"></div>
-            <p>Analisando Veículos...</p>
+            <p>Analisando Veículo...</p>
         </div>
     `;
 
